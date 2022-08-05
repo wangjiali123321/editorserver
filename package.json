@@ -1,0 +1,22 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangjiali123321/editorserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangjiali123321/editorserver/issues"
+  },
+  "homepage": "https://github.com/wangjiali123321/editorserver#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
